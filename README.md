@@ -77,7 +77,7 @@ xnor(y7,a,b);
 endmodule
 ```
 
-### Output:
+### Output: 
 
 ### RTL:
 ![logic gayte](https://user-images.githubusercontent.com/119401470/230288098-34fa5f75-417d-4ff1-843b-db9aa0b7039d.png)
