@@ -80,6 +80,9 @@ endmodule
 ```
 
 ### Output: 
+### truth table:
+![logic truth table](https://user-images.githubusercontent.com/119401470/230291140-ec2ccb82-e1b8-428c-8d0b-38b5270e62db.jpg)
+
 
 ### RTL:
 ![logic gayte](https://user-images.githubusercontent.com/119401470/230288098-34fa5f75-417d-4ff1-843b-db9aa0b7039d.png)
